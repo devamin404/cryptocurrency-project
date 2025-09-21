@@ -1,0 +1,1 @@
+I created this crypto website using HTML, CSS, and JavaScript. It was from my initial web development projects when I was learning front-end development. It's so cool to see you, how you started from the basics, and now you are going to the next level. Maybe in future API will not work till now have fun.
